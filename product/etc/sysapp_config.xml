@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas version="1">
+    <!--config_data: 1 install-->
+    <matchcarrier  carrier="amxmx" apk_path="priv-app/TelcelContainer" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="amxar;amxcl;amxco;amxpe;amxla;amxbr" apk_path="priv-app/ClaroContainer" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="niibr;retbr;timbr;oibr;openbr;tefbr;tefmx;tefco;tigco;tefpe;niipe;attmx;amxmx;openmx;amxco;retar;retcl;retla" apk_path="priv-app/BRAppsBox" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="amxbr;tefbr;niibr;oibr;timbr;retbr;amxmx;tefmx;retmx;attmx;openmx;altmx" apk_path="priv-app/MotoPAKS" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="timit" apk_path="priv-app/Booking" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="timit;attmx;windit" apk_path="priv-app/AmazonMDIP" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="retapac;retin;optus" apk_path="priv-app/DuraSpeed" apk_property="0" config_data="1"/>
+    <matchcarrier  carrier="reteu_reteu" apk_path="priv-app/SearchSelector" apk_property="0" config_data="1"/>
+    <!--config_data:-1 not install-->
+    <matchcarrier  carrier="reteu_retfr;windit_windds;timit_timit" apk_path="priv-app/FMRadio" apk_property="0" config_data="-1"/>
+    <matchcarrier  carrier="eegb" apk_path="priv-app/facebook-services" apk_property="0" config_data="-1"/>
+</Datas>

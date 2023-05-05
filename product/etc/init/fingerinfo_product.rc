@@ -1,0 +1,2 @@
+on property:ro.vendor.vtest=1
+    setprop ro.product.build.fingerprint ${ro.vendor.build.fingerprint}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Polkomtel(Plus) Poland -->
+    <ontimcarrier carrier="pluspl"      bootanimpath="/system/media/bootanimation.zip" />
+    <!-- TIM Italy -->
+    <ontimcarrier carrier="timit"       bootanimpath="/system/media/bootanimation.zip" />
+
+</resources>

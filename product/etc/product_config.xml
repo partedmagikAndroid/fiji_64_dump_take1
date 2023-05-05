@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas version="1">
+<!--homelayout -->
+	<matchcarrier  carrier="amxbr" apk_path="/product/app/homelayout/GmsSampleIntegration_amxbr" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxcl" apk_path="/product/app/homelayout/GmsSampleIntegration_amxcl" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxco" apk_path="/product/app/homelayout/GmsSampleIntegration_amxco" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxla" apk_path="/product/app/homelayout/GmsSampleIntegration_amxla" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxmx" apk_path="/product/app/homelayout/GmsSampleIntegration_amxmx" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxpe" apk_path="/product/app/homelayout/GmsSampleIntegration_amxpe" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="tefbr" apk_path="/product/app/homelayout/GmsSampleIntegration_tefbr" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="tefmx" apk_path="/product/app/homelayout/GmsSampleIntegration_tefmx" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="openpe" apk_path="/product/app/homelayout/GmsSampleIntegration_openpe" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="timbr" apk_path="/product/app/homelayout/GmsSampleIntegration_timbr" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="retru" apk_path="/product/app/homelayout/GmsSampleIntegration_retru" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxar" apk_path="/product/app/homelayout/GmsSampleIntegration_amxar" apk_property="0" config_data=""/>
+	<matchcarrier  carrier="amxpe" apk_path="/product/priv-app/SysDLL" apk_property="1" config_data=""/>
+    <matchcarrier  carrier="openmx;amxmx;attmx;tefmx;altmx;amxar;retar;amxcl;retcl;opencl;amxpe;openpe;openla;retla;tigca" apk_path="/product/priv-app/FrameworksMotoTimeZoneData" apk_property="1" config_data=""/>
+    <matchcarrier  carrier="openmx;amxmx;attmx;tefmx;altmx;amxar;retar;amxcl;retcl;opencl;amxpe;openpe;openla;retla;tigca" apk_path="/product/priv-app/MotoTimeZoneDataPrebuilt" apk_property="1" config_data=""/>
+    <matchcarrier  carrier="openmx;amxmx;attmx;tefmx;altmx;amxar;retar;amxcl;retcl;opencl;amxpe;openpe;openla;retla;tigca" apk_path="/product/priv-app/TimeZoneUpdater" apk_property="1" config_data=""/>
+</Datas>
