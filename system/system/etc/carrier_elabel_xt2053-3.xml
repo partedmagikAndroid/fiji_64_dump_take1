@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APEM Lenovo -->
+    <ontimcarrier carrier="retapac_reteusa"     elabelpath="/system/etc/regulatory/regulatory_info_xt2053-3.png" />
+    <ontimcarrier carrier="retapac_reteuuae"    elabelpath="/system/etc/regulatory/regulatory_info_xt2053-3.png" />
+    <ontimcarrier carrier="retapac_rettld"      elabelpath="/system/etc/regulatory/regulatory_info_xt2053-3_th.png" />
+
+</resources>

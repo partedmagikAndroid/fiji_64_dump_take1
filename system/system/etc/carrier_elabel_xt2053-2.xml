@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brazil -->
+    <!-- Retail Brazil(Manaus) -->
+    <ontimcarrier carrier="retbr_brmanaus"      elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_br_for_manaus.png" />
+    <ontimcarrier carrier="retbr_retbr"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_br_for_jag.png" />
+    <ontimcarrier carrier="amxbr_clarobr"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_br_for_jag.png" />
+    <!-- <ontimcarrier carrier="tefbr_vivobr"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_br_for_jag.png" /> -->
+    <ontimcarrier carrier="timbr_clarobr"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_br_for_jag.png" />
+
+    <!-- Latam -->
+    <!-- Mexico -->
+    <ontimcarrier carrier="openmx_retmx"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <ontimcarrier carrier="amxmx_amxmx"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <ontimcarrier carrier="amxmx_amxmxsl"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <ontimcarrier carrier="attmx_attmx"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <ontimcarrier carrier="tefmx_movistarmx"    elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <ontimcarrier carrier="altmx_altmx"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_mexico.png" />
+    <!-- Argentina -->
+    <ontimcarrier carrier="amxar_amxar"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_ar_local_build.png" />
+    <ontimcarrier carrier="retar_movistar"      elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_ar_local_build.png" />
+    <ontimcarrier carrier="retar_retper"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_ar_local_build.png" />
+    <ontimcarrier carrier="retar_retag"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_ar_local_build.png" />
+    <!-- Chile -->
+    <ontimcarrier carrier="amxcl_clarosl"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="retcl_retcl"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="opencl_entcl"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="opencl_movistar"     elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="opencl_womcl"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <!-- Peru -->
+    <ontimcarrier carrier="amxpe_claro"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="openpe_entpu"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="openpe_movistar"     elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <!-- Colombia -->
+    <ontimcarrier carrier="openla_tigco"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="openla_tefco"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <ontimcarrier carrier="retla_retlac"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <!-- Retail El Salvador -->
+    <ontimcarrier carrier="retla_retlas"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_retail_salvador_ds.png" />
+    <!-- Claro El Salvador -->
+    <ontimcarrier carrier="amxla_amxlas"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_amxla_ss.png" />
+    <!-- Claro Guatemala with SimLock -->
+    <ontimcarrier carrier="amxla_amxlag"        elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_amxla_ss.png" />
+    <!-- Tigo Guatemala -->
+    <!-- <ontimcarrier carrier="tigca_tigca"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-2_amxla.png" /> -->
+
+    <!-- Retail Japan -->
+    <ontimcarrier carrier="retapac_retjp"        elabelpath="/elabel/etc/regulatory/regulatory_info_xt2053-2.png" />
+    <!-- Retail Austrilia -->
+    <ontimcarrier carrier="retapac_retau"        elabelpath="/elabel/etc/regulatory/regulatory_info_xt2053-2.png" />
+
+</resources>

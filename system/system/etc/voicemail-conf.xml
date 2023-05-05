@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voicemail>
+<!-- test
+<voicemail numeric="46000" vmnumber="10086" vmtag="CMCC voicemail"/>
+-->
+<!-- Vodafone -->
+<voicemail numeric="21401" vmnumber="22177" vmtag=""/>
+<!-- Orange -->
+<voicemail numeric="21403" vmnumber="242" vmtag=""/>
+<!-- Yoigo -->
+<voicemail numeric="21404" vmnumber="633" vmtag=""/>
+<!-- Vodafone -->
+<voicemail numeric="21406" vmnumber="22177" vmtag=""/>
+<!-- movistar -->
+<voicemail numeric="21407" vmnumber="123" vmtag=""/>
+<!-- Orange -->
+<voicemail numeric="21409" vmnumber="242" vmtag=""/>
+</voicemail>

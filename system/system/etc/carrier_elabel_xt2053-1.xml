@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Europe -->
+    <!-- United Kingdom -->
+    <ontimcarrier carrier="retgb_retgbds"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <ontimcarrier carrier="retgb_cpwds"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <ontimcarrier carrier="eegb_uksl"           elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <ontimcarrier carrier="o2gb_teluk"          elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <ontimcarrier carrier="tescogb_tescogb"     elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+
+    <!-- Retail Sweden / Retail Germany / Retail Poland / Retail Romania / Retail Spain -->
+    <ontimcarrier carrier="reteu_reteu"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+
+    <!-- Polkomtel(Plus) Poland -->
+    <ontimcarrier carrier="pluspl_pluspl"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <!-- Retail Serbia -->
+    <ontimcarrier carrier="reteu_reteuse"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <!-- Retail France / Retail Italy -->
+    <ontimcarrier carrier="reteu_retfr"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+
+    <!-- Wind Italy -->
+    <ontimcarrier carrier="windit_windds"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <!-- TIM Italy -->
+    <ontimcarrier carrier="timit_timit"         elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+
+    <!-- APEM Moto -->
+    <ontimcarrier carrier="retapac_reteusa"     elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1.png" />
+    <ontimcarrier carrier="retapac_reteuuae"    elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1_uae.png" />
+    <ontimcarrier carrier="retapac_rettld"      elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1_th.png" />
+    <ontimcarrier carrier="retapac_rettw"       elabelpath="/system/etc/regulatory/regulatory_info_xt2053-1_tw.png" />
+
+</resources>
