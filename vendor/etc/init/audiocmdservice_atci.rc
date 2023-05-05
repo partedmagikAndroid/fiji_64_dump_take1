@@ -1,0 +1,10 @@
+service audio-daemon /vendor/bin/audiocmdservice_atci
+    class main
+    socket atci-audio stream 666 system system
+    user system
+    group system audio
+    disabled
+    oneshot
+
+on property:persist.vendor.service.atci.autostart=1
+start audio-daemon
