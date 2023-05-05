@@ -1,0 +1,14 @@
+# fiji_64-user 9 POES29.288-60-6-1-29 c6fde release-keys
+- manufacturer: motorola
+- platform: mt6765
+- codename: fiji_64
+- flavor: fiji_64-user
+- release: 9
+- id: POES29.288-60-6-1-29
+- incremental: c6fde
+- tags: release-keys
+- fingerprint: motorola/fiji_64/fiji:9/POES29.288-60-6-1-29/c6fde:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: fiji_64-user-9-POES29.288-60-6-1-29-c6fde-release-keys
+- repo: motorola_fiji_64_dump
